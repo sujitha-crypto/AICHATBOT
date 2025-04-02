@@ -76,14 +76,3 @@ Contributions are welcome! If you would like to improve the chatbot or add new f
 6. Create a new pull request.
 
 Please make sure that your code adheres to the existing style guidelines and includes tests where applicable.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Customizations
-Make sure to replace placeholders like `your-username` in the repository URL with your actual GitHub username. You can also adjust sections like the "Technologies Used" or "Features" based on your actual implementation.
-
-Let me know if you'd like more specific sections added!
